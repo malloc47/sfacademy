@@ -1,0 +1,306 @@
+[Root]
+Most Recent Package=Star Trek - The Invasion
+
+
+[Package|Star Trek - The Invasion|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\sfacademy\package
+
+[Package|Star Trek - The Invasion|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Star Trek - The Invasion|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Star Trek - The Invasion|Files Found]
+
+[Package|Star Trek - The Invasion|Files Released]
+
+[Package|Star Trek - The Invasion|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\win32.tlb=
+
+[Package|Star Trek - The Invasion|Out-of-Date Dependency Information]
+
+[Package|Star Trek - The Invasion|Files Added]
+C:\sfacademy\images\button1.jpg=
+C:\sfacademy\images\button2.jpg=
+C:\sfacademy\images\elevator1.jpg=
+C:\sfacademy\images\elevator1a.jpg=
+C:\sfacademy\images\elevatorback.jpg=
+C:\sfacademy\images\elevatorbutton.jpg=
+C:\sfacademy\images\elevatorlight.GIF=
+C:\sfacademy\images\elevatorright.jpg=
+C:\sfacademy\images\hallback1.jpg=
+C:\sfacademy\images\hallmain1.jpg=
+C:\sfacademy\images\hallmain2.jpg=
+C:\sfacademy\images\hallmain2a.jpg=
+C:\sfacademy\images\hallmain3.jpg=
+C:\sfacademy\images\hallmain3a.jpg=
+C:\sfacademy\images\hallmain4.jpg=
+C:\sfacademy\images\hallmain4a.jpg=
+C:\sfacademy\images\hallmain5.jpg=
+C:\sfacademy\images\hallmain5a.jpg=
+C:\sfacademy\images\hallmain5cl.jpg=
+C:\sfacademy\images\hallmain5jammed.jpg=
+C:\sfacademy\images\hallmain5pipe.jpg=
+C:\sfacademy\images\halltop1.jpg=
+C:\sfacademy\images\halltop2.jpg=
+C:\sfacademy\images\halltop2a.jpg=
+C:\sfacademy\images\halltop2b.jpg=
+C:\sfacademy\images\halltop2c.jpg=
+C:\sfacademy\images\shuttleimg1.jpg=
+C:\sfacademy\images\shuttleimg2.jpg=
+C:\sfacademy\images\welcome1.jpg=
+C:\sfacademy\images\welcome1a.jpg=
+C:\sfacademy\images\welcome1b.jpg=
+C:\sfacademy\images\welcome1c.jpg=
+C:\sfacademy\images\welcome1d.jpg=
+C:\sfacademy\sound\buttonclick.wav=
+C:\sfacademy\sound\elevato1.wav=
+C:\sfacademy\sound\elevato2.wav=
+C:\sfacademy\sound\elevator.wav=
+C:\sfacademy\sound\elevatostop.wav=
+C:\sfacademy\sound\Lifeform.mid=
+C:\sfacademy\sound\moveleft.wav=
+C:\sfacademy\sound\pipetake.wav=
+C:\sfacademy\sound\slide.wav=
+C:\sfacademy\sound\st_ds9.mid=
+C:\sfacademy\sound\ST_I.mid=
+C:\sfacademy\sound\ST_II.mid=
+C:\sfacademy\sound\ST_III.mid=
+C:\sfacademy\sound\ST_IV.mid=
+C:\sfacademy\sound\st_tng.mid=
+C:\sfacademy\sound\st_tos.mid=
+C:\sfacademy\sound\ST_VI.mid=
+C:\sfacademy\sound\st_vii.mid=
+C:\sfacademy\sound\st_viii.mid=
+C:\sfacademy\sound\st_voy.mid=
+C:\sfacademy\sound\unjam.wav=
+
+[Package|Star Trek - The Invasion|Files Removed]
+c:\sfacademy\sound\elevato1.wav=
+c:\sfacademy\sound\elevato2.wav=
+c:\sfacademy\sound\lifeform.mid=
+
+[Package|Star Trek - The Invasion|Files In Project]
+C:\sfacademy\sfacademy.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\win32.tlb=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\sfacademy\images\button1.jpg=Yes
+C:\sfacademy\images\button2.jpg=Yes
+C:\sfacademy\images\elevator1.jpg=Yes
+C:\sfacademy\images\elevator1a.jpg=Yes
+C:\sfacademy\images\elevatorback.jpg=Yes
+C:\sfacademy\images\elevatorbutton.jpg=Yes
+C:\sfacademy\images\elevatorlight.GIF=Yes
+C:\sfacademy\images\elevatorright.jpg=Yes
+C:\sfacademy\images\hallback1.jpg=Yes
+C:\sfacademy\images\hallmain1.jpg=Yes
+C:\sfacademy\images\hallmain2.jpg=Yes
+C:\sfacademy\images\hallmain2a.jpg=Yes
+C:\sfacademy\images\hallmain3.jpg=Yes
+C:\sfacademy\images\hallmain3a.jpg=Yes
+C:\sfacademy\images\hallmain4.jpg=Yes
+C:\sfacademy\images\hallmain4a.jpg=Yes
+C:\sfacademy\images\hallmain5.jpg=Yes
+C:\sfacademy\images\hallmain5a.jpg=Yes
+C:\sfacademy\images\hallmain5cl.jpg=Yes
+C:\sfacademy\images\hallmain5jammed.jpg=Yes
+C:\sfacademy\images\hallmain5pipe.jpg=Yes
+C:\sfacademy\images\halltop1.jpg=Yes
+C:\sfacademy\images\halltop2.jpg=Yes
+C:\sfacademy\images\halltop2a.jpg=Yes
+C:\sfacademy\images\halltop2b.jpg=Yes
+C:\sfacademy\images\halltop2c.jpg=Yes
+C:\sfacademy\images\shuttleimg1.jpg=Yes
+C:\sfacademy\images\shuttleimg2.jpg=Yes
+C:\sfacademy\images\welcome1.jpg=Yes
+C:\sfacademy\images\welcome1a.jpg=Yes
+C:\sfacademy\images\welcome1b.jpg=Yes
+C:\sfacademy\images\welcome1c.jpg=Yes
+C:\sfacademy\images\welcome1d.jpg=Yes
+C:\sfacademy\sound\buttonclick.wav=Yes
+C:\sfacademy\sound\elevato1.wav=No
+C:\sfacademy\sound\elevato2.wav=No
+C:\sfacademy\sound\elevator.wav=Yes
+C:\sfacademy\sound\elevatostop.wav=Yes
+C:\sfacademy\sound\Lifeform.mid=No
+C:\sfacademy\sound\moveleft.wav=Yes
+C:\sfacademy\sound\pipetake.wav=Yes
+C:\sfacademy\sound\slide.wav=Yes
+C:\sfacademy\sound\st_ds9.mid=Yes
+C:\sfacademy\sound\ST_I.mid=Yes
+C:\sfacademy\sound\ST_II.mid=Yes
+C:\sfacademy\sound\ST_III.mid=Yes
+C:\sfacademy\sound\ST_IV.mid=Yes
+C:\sfacademy\sound\st_tng.mid=Yes
+C:\sfacademy\sound\st_tos.mid=Yes
+C:\sfacademy\sound\ST_VI.mid=Yes
+C:\sfacademy\sound\st_vii.mid=Yes
+C:\sfacademy\sound\st_viii.mid=Yes
+C:\sfacademy\sound\st_voy.mid=Yes
+C:\sfacademy\sound\unjam.wav=Yes
+
+[Package|Star Trek - The Invasion|Configure Registry Files]
+Applicable=No
+
+[Package|Star Trek - The Invasion|Configure Remote Servers]
+Applicable=No
+
+[Package|Star Trek - The Invasion|Install Locations]
+C:\sfacademy\sfacademy.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\win32.tlb=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\sfacademy\images\button1.jpg=$(AppPath)\images
+C:\sfacademy\images\button2.jpg=$(AppPath)\images
+C:\sfacademy\images\elevator1.jpg=$(AppPath)\images
+C:\sfacademy\images\elevator1a.jpg=$(AppPath)\images
+C:\sfacademy\images\elevatorback.jpg=$(AppPath)\images
+C:\sfacademy\images\elevatorbutton.jpg=$(AppPath)\images
+C:\sfacademy\images\elevatorlight.GIF=$(AppPath)\images
+C:\sfacademy\images\elevatorright.jpg=$(AppPath)\images
+C:\sfacademy\images\hallback1.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain1.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain2.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain2a.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain3.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain3a.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain4.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain4a.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain5.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain5a.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain5cl.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain5jammed.jpg=$(AppPath)\images
+C:\sfacademy\images\hallmain5pipe.jpg=$(AppPath)\images
+C:\sfacademy\images\halltop1.jpg=$(AppPath)\images
+C:\sfacademy\images\halltop2.jpg=$(AppPath)\images
+C:\sfacademy\images\halltop2a.jpg=$(AppPath)\images
+C:\sfacademy\images\halltop2b.jpg=$(AppPath)\images
+C:\sfacademy\images\halltop2c.jpg=$(AppPath)\images
+C:\sfacademy\images\shuttleimg1.jpg=$(AppPath)\images
+C:\sfacademy\images\shuttleimg2.jpg=$(AppPath)\images
+C:\sfacademy\images\welcome1.jpg=$(AppPath)\images
+C:\sfacademy\images\welcome1a.jpg=$(AppPath)\images
+C:\sfacademy\images\welcome1b.jpg=$(AppPath)\images
+C:\sfacademy\images\welcome1c.jpg=$(AppPath)
+C:\sfacademy\images\welcome1d.jpg=$(AppPath)\images
+C:\sfacademy\sound\buttonclick.wav=$(AppPath)\sound
+C:\sfacademy\sound\elevator.wav=$(AppPath)\sound
+C:\sfacademy\sound\elevatostop.wav=$(AppPath)\sound
+C:\sfacademy\sound\moveleft.wav=$(AppPath)\sound
+C:\sfacademy\sound\pipetake.wav=$(AppPath)\sound
+C:\sfacademy\sound\slide.wav=$(AppPath)\sound
+C:\sfacademy\sound\st_ds9.mid=$(AppPath)\sound
+C:\sfacademy\sound\ST_I.mid=$(AppPath)\sound
+C:\sfacademy\sound\ST_II.mid=$(AppPath)\sound
+C:\sfacademy\sound\ST_III.mid=$(AppPath)\sound
+C:\sfacademy\sound\ST_IV.mid=$(AppPath)\sound
+C:\sfacademy\sound\st_tng.mid=$(AppPath)\sound
+C:\sfacademy\sound\st_tos.mid=$(AppPath)\sound
+C:\sfacademy\sound\ST_VI.mid=$(AppPath)\sound
+C:\sfacademy\sound\st_vii.mid=$(AppPath)\sound
+C:\sfacademy\sound\st_viii.mid=$(AppPath)\sound
+C:\sfacademy\sound\st_voy.mid=$(AppPath)\sound
+C:\sfacademy\sound\unjam.wav=$(AppPath)\sound
+
+[Package|Star Trek - The Invasion|Configure Shared Files]
+Applicable=Yes
+C:\sfacademy\sfacademy.exe=No
+C:\sfacademy\images\button1.jpg=No
+C:\sfacademy\images\button2.jpg=No
+C:\sfacademy\images\elevator1.jpg=No
+C:\sfacademy\images\elevator1a.jpg=No
+C:\sfacademy\images\elevatorback.jpg=No
+C:\sfacademy\images\elevatorbutton.jpg=No
+C:\sfacademy\images\elevatorlight.GIF=No
+C:\sfacademy\images\elevatorright.jpg=No
+C:\sfacademy\images\hallback1.jpg=No
+C:\sfacademy\images\hallmain1.jpg=No
+C:\sfacademy\images\hallmain2.jpg=No
+C:\sfacademy\images\hallmain2a.jpg=No
+C:\sfacademy\images\hallmain3.jpg=No
+C:\sfacademy\images\hallmain3a.jpg=No
+C:\sfacademy\images\hallmain4.jpg=No
+C:\sfacademy\images\hallmain4a.jpg=No
+C:\sfacademy\images\hallmain5.jpg=No
+C:\sfacademy\images\hallmain5a.jpg=No
+C:\sfacademy\images\hallmain5cl.jpg=No
+C:\sfacademy\images\hallmain5jammed.jpg=No
+C:\sfacademy\images\hallmain5pipe.jpg=No
+C:\sfacademy\images\halltop1.jpg=No
+C:\sfacademy\images\halltop2.jpg=No
+C:\sfacademy\images\halltop2a.jpg=No
+C:\sfacademy\images\halltop2b.jpg=No
+C:\sfacademy\images\halltop2c.jpg=No
+C:\sfacademy\images\shuttleimg1.jpg=No
+C:\sfacademy\images\shuttleimg2.jpg=No
+C:\sfacademy\images\welcome1.jpg=No
+C:\sfacademy\images\welcome1a.jpg=No
+C:\sfacademy\images\welcome1b.jpg=No
+C:\sfacademy\images\welcome1c.jpg=No
+C:\sfacademy\images\welcome1d.jpg=No
+C:\sfacademy\sound\buttonclick.wav=No
+C:\sfacademy\sound\elevator.wav=No
+C:\sfacademy\sound\elevatostop.wav=No
+C:\sfacademy\sound\moveleft.wav=No
+C:\sfacademy\sound\pipetake.wav=No
+C:\sfacademy\sound\slide.wav=No
+C:\sfacademy\sound\st_ds9.mid=No
+C:\sfacademy\sound\ST_I.mid=No
+C:\sfacademy\sound\ST_II.mid=No
+C:\sfacademy\sound\ST_III.mid=No
+C:\sfacademy\sound\ST_IV.mid=No
+C:\sfacademy\sound\st_tng.mid=No
+C:\sfacademy\sound\st_tos.mid=No
+C:\sfacademy\sound\ST_VI.mid=No
+C:\sfacademy\sound\st_vii.mid=No
+C:\sfacademy\sound\st_viii.mid=No
+C:\sfacademy\sound\st_voy.mid=No
+C:\sfacademy\sound\unjam.wav=No
+
+[Package|Star Trek - The Invasion|Distribution]
+Type=single
+Size=
+Title=Star Trek - The Invasion
+
+[Package|Star Trek - The Invasion|IconGroups]
+Group0=The Name of my Game
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Star Trek - The Invasion|The Name of my Game]
+Icon1=sfacademy.exe
+Title1=Star Trek - The Invasion
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Star Trek - The Invasion|Package]
+PackageFolder=C:\sfacademy\package
+ProjectFolder=C:\sfacademy
+ServerSideCab=
+File1=C:\sfacademy\package\setup.exe
+File2=C:\sfacademy\package\Setup.Lst
+File3=C:\sfacademy\package\sfacademy.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
